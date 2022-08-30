@@ -241,11 +241,7 @@ async def play(_, message: Message):
         await lel.edit(
             "**Give me** `invite user` **admin permission.**"
         )
-        return
-    if not c.can_restrict_members:
-        await lel.edit(
-            "**Give me** `ban user` **admin permission.**"
-        )
+        
         return
 
     try:
