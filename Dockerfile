@@ -1,5 +1,6 @@
-FROM nikolaik/python-nodejs:python3.10-nodejs17
+FROM python:3.9.7-slim-buster
 RUN apt-get update && apt-get upgrade -y
+
 RUN apt-get install ffmpeg -y
 COPY . /app/
 WORKDIR /app/
