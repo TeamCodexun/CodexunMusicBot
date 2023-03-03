@@ -31,6 +31,7 @@ asyncio
 dnspython
 ffmpeg-python
 future
+git 
 git+https://github.com/Ressowork/Downloadr@master
 motor
 pillow
