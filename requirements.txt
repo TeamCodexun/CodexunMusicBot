@@ -35,7 +35,6 @@ git+https://github.com/Ressowork/Downloadr@master
 motor
 pillow
 psutil
-pyrogram==1.4.16
 py-tgcalls
 python-dotenv
 requests
