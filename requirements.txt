@@ -25,3 +25,4 @@ youtube-search
 telegraph
 regex
 html5lib
+git+https://github.com/Ressowork/Downloadr@master
