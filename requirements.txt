@@ -1,4 +1,4 @@
-aiohttp
+aiohttp 
 aiofiles
 asyncio
 cryptography
@@ -22,7 +22,7 @@ uvloop
 wget
 youtube-search-python
 youtube-search
-git+https://github.com/TeamCodexun/Downloadr@master
+https://github.com/TeamCodexun/Downloadr@master
 telegraph
 regex
 html5lib
